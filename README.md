@@ -72,3 +72,6 @@ O respositório resolve os conflitos automaticamente
 ### configura o GitFlow
 > git flow init
 > git flow feature start {nome-da-feature}
+
+### Um teste para ver
+se fica mostrando quem fez a alteração

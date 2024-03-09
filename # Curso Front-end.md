@@ -66,3 +66,6 @@ Você pode precisar resolver conflitos manualmente
 ### Pull Requests
 Mescla de branchs no repositório
 Permite code review
+
+### Um teste para ver
+se fica mostrando quem fez a alteração
